@@ -1,0 +1,4 @@
+      <?php include ('../header.php'); ?>
+      <h1>Security</h1>
+	    <p>Bankoneer Security: The site uses hash encryption to protect all personal identification information that you submit, including personal details and login ID and password, credit card and bank account details. Payment details for each transaction are encrypted and stored for your convenience. We have also maintained the second level of security (Transaction Password) while performing transaction through "Bankoneer". In order to complete your payment you have to create the Transaction Password.</p>
+	                    <?php include ('../footer.php'); ?>
